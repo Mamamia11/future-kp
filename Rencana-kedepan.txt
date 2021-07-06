@@ -4,3 +4,5 @@ Rencana kedepan
 - Belajar OOP
 - Belajar MVC
 - Belajar Framework
+- Belajar CI4
+- Belajar LARAVEL
