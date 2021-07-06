@@ -6,4 +6,4 @@ Rencana kedepan
 - Belajar Framework
 - Belajar CI4
 - Belajar LARAVEL
-- Belajar data struktur
+- Belajar JavaScript
