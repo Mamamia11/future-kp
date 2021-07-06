@@ -1,0 +1,6 @@
+Rencana kedepan
+
+- Belajar PHP
+- Belajar OOP
+- Belajar MVC
+- Belajar Framework
